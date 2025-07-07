@@ -85,7 +85,6 @@ ROC AUC:   1.00
 
 * Python
 * pandas, scikit-learn, seaborn, matplotlib
-* Streamlit (optional for dashboard)
 * Faker (synthetic data)
 
 ---
